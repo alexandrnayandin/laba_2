@@ -136,9 +136,6 @@ Invoke-RestMethod -Uri "http://localhost:5148/user/1" -Method PUT -ContentType "
 Invoke-RestMethod -Uri "http://localhost:5148/user/1" -Method DELETE
 ```
 
-## Отчеты
-
-Отчеты по трем частям лабораторной работы находятся в папке `reports`.
 
 ## Используемые технологии
 
